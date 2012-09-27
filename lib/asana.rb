@@ -5,6 +5,7 @@ require 'asana/version'
 
 require 'asana/resources/project'
 require 'asana/resources/story'
+require 'asana/resources/tag'
 require 'asana/resources/task'
 require 'asana/resources/user'
 require 'asana/resources/workspace'
